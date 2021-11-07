@@ -1,1 +1,2 @@
-# 20191CSE0802_VIKAS_ML-PROJECT
+# Real-Estate-ML-project
+This is the project to predict the real estate plot prices using linear regression model 
